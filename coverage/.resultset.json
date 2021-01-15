@@ -1,6 +1,34 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/ryanbarnett/turing/repeat_2module/b2-final/spec/features/surgery/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/ryanbarnett/turing/repeat_2module/b2-final/spec/models/doctor_spec.rb": {
         "lines": [
           1,
@@ -112,7 +140,11 @@
         "lines": [
           1,
           1,
-          2,
+          3,
+          null,
+          null,
+          1,
+          null,
           null,
           null
         ]
@@ -124,6 +156,6 @@
         ]
       }
     },
-    "timestamp": 1610730162
+    "timestamp": 1610730610
   }
 }

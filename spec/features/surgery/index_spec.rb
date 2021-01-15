@@ -30,5 +30,14 @@ describe 'As a visitor' do
         expect(page).to have_content(@dr_patel.name)
       end
     end
+
+    it 'I can click on any surgery title to take me to that surgery’s show page' do
+      click_link @surgery_1.title
+
+      expect(current_path).to eq("/surgeries/#{@surgery_1.id}")
+    end
   end
 end
+
+# When I visit the surgery index page
+# I can click on any surgery title to take me to that surgery’s show page

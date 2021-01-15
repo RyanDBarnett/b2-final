@@ -3,7 +3,7 @@
 <ul>
   <% @surgeries.each do |surgery| %>
     <li id="surgery-<%= surgery.id %>">
-      <h2><%= surgery.title %></h2>
+      <h2><%= link_to surgery.title, "/surgeries/#{surgery.id}" %></h2>
       <ul>
         <h3>Surgery Doctors:</h3>
         <% surgery.doctors.each do |doctor| %>
