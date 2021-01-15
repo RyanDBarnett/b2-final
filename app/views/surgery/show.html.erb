@@ -1,0 +1,15 @@
+<h1>Surgery Show</h1>
+
+<h2>Title: <%= @surgery.title %></h2>
+<h3>Operating Room Number: <%= @surgery.operating_room_number %></h3>
+
+<section id='other-surgeries-this-day'>
+  <ul>
+    <p>Other surgeries happening this day of the week:</p>
+    <% @surgery.other_surgeries_today.each do |surgery| %>
+      <li>
+        <%= surgery.title %>
+      </li>
+    <% end %>
+  </ul>
+</section>
