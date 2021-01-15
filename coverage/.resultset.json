@@ -1,0 +1,96 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/ryanbarnett/turing/repeat_2module/b2-final/app/models/doctor.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/ryanbarnett/turing/repeat_2module/b2-final/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/ryanbarnett/turing/repeat_2module/b2-final/spec/models/hospital_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/ryanbarnett/turing/repeat_2module/b2-final/app/models/hospital.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/ryanbarnett/turing/repeat_2module/b2-final/spec/models/operation_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/ryanbarnett/turing/repeat_2module/b2-final/app/models/operation.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/ryanbarnett/turing/repeat_2module/b2-final/spec/models/surgery_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/ryanbarnett/turing/repeat_2module/b2-final/app/models/surgery.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      }
+    },
+    "timestamp": 1610728862
+  }
+}
