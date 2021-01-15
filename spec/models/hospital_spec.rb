@@ -7,5 +7,6 @@ describe Hospital do
 
   describe 'relationships' do
     it {should have_many :doctors}
+    it {should have_many :surgeries}
   end
 end
